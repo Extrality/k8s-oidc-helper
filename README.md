@@ -1,7 +1,5 @@
 # k8s-oidc-helper
 
-[![Docker Repository on Quay](https://quay.io/repository/utilitywarehouse/k8s-oidc-helper/status "Docker Repository on Quay")](https://quay.io/repository/utilitywarehouse/k8s-oidc-helper)
-
 Forked from: https://github.com/micahhausler/k8s-oidc-helper
 
 This is a small helper tool to get a user get authenticated with
