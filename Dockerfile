@@ -1,4 +1,4 @@
-FROM golang:alpine AS build
+FROM golang:1.17-alpine AS build
 WORKDIR /go/src/github.com/utilitywarehouse/k8s-oidc-helper
 COPY . /go/src/github.com/utilitywarehouse/k8s-oidc-helper
 RUN apk --no-cache add git \
